@@ -1,0 +1,42 @@
+.margin {
+  padding-bottom: 90px;
+}
+
+.text-margin {
+  padding-bottom: 0px;
+}
+
+.list-heading {
+  font-size: 30px;
+  margin-top: 10px;
+  color: white;
+}
+
+.sec-list-heading {
+  font-size: 30px;
+  color: white;
+}
+
+.close-icon {
+  margin-bottom: 7px;
+}
+
+.td-padding {
+  padding-top: 17px;
+}
+
+.bg-color {
+  background-color: #ffc554;
+}
+
+.third-list-heading {
+  font-size: 20px;
+  color: white;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: 500;
+  text-decoration: none;
+  color: white;
+}
